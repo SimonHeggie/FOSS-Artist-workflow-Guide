@@ -12,7 +12,7 @@ https://github.com/SimonHeggie/FOSS-Artist-workflow-Guide/wiki/Home
 
 Some artists take the proprietary sucker extreme and blow their budget on a workflow headache with too many shortcuts and UI differences. Some artists go the opposite way and seem cult-like in their love of all things free and open source.
 
-Rest assured that I am SANELY and LOGICALLY well between those extremes. I believe in having free opensource software as a financial and productivity back-up, and bolstering the lesser attempts at industry standard practice; with paid software and extensions.
+I simply want to advocate for what I believe is a rational option between these two extremes. I believe in having free opensource software as a financial and productivity back-up, and bolstering the lesser attempts at industry standard practice; with paid software and extensions.
 
 Some things can even be better. If you, like I struggle to maintain concentration; your problem regardless of the quality of software - may be the complexity of your workflow.
 
